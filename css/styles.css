@@ -582,7 +582,10 @@ footer a:hover {
 }
 
 .section-faq h1 {
-    color: var(--text-secondary);
+    color:#f5df4d;
+    font-family: PlusJakartaBold;
+    font-variant-ligatures: no-historical-ligatures;
+    font-feature-settings: "ss01", "ss02", "ss03";
 }
 
 .section-faq a {
