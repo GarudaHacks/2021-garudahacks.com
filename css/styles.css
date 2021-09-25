@@ -507,7 +507,7 @@ footer a:hover {
 
 .section-track .item .item-header {
     height: 20px;
-    background-color: #f4d35e;
+    background-color: #FF164E;
 }
 
 .section-track .item .item-body {
@@ -515,8 +515,9 @@ footer a:hover {
 }
 
 .section-track .item .item-title {
-    color: var(--text-dark);
-    font-family: "Montserrat", sans-serif;
+    color: #071729;
+    font-family: PlusJakartaBold;
+    font-variant-ligatures: no-historical-ligatures;
     font-weight: 800;
     font-size: 40px;
 }
