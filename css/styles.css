@@ -637,6 +637,7 @@ footer a:hover {
 }
 
 .section-sponsor-full {
+    background: white !important;
     padding-top: 30px;
     padding-bottom: 120px;
     background-color: var(--pastel-yelow);
@@ -646,6 +647,8 @@ footer a:hover {
 .section-sponsor-full h1 {
     color: var(--text-dark);
     font-size: 48px;
+    font-family: PlusJakartaBold;
+    font-variant-ligatures: no-historical-ligatures;
 }
 
 .section-sponsor-full .partner-category {
